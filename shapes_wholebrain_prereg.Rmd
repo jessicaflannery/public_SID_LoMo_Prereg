@@ -3,9 +3,9 @@ title: "Whole Brain Social Incentive Delay fMRI Prereg"
 author: "Jessica Flannery"
 date: "10/21/2020"
 output:
-  html_document: default
-  word_document: default
   pdf_document: default
+  word_document: default
+  html_document: default
 ---
 
 ## Working Title
@@ -207,11 +207,12 @@ To date, longitudinal data from Neuroteen and Teen Transition Project have not b
 *After your paragraph, use the table as a checklist to ensure you included all information suggested for reproducible results.*
 
 ```
-Data was collected prior to preregistration. Prior to publication, these details will be confirmed with the current sample. Based on data from first paper at time point one, participants were recruited from three rural public middle schools in the southeast United States.
+Data was collected prior to preregistration. 
+Prior to publication, these details will be confirmed with the current sample. 
 
 ```
 
-Between 66.7% and 72.1% of students in these schools was classified as economically disadvantaged based on school reports (North Carolina School Report Cards, 2017), and 69.5% of students in the district was eligible for free or reduced-price lunch based on district reports. Participants were recruited from a larger study of 873 students in sixth and seventh grade. Participants from the larger study provided interest in being contacted for a future fMRI study. Interested participants were then called and screened on the phone for eligibility (i.e., MRI contraindications) and recruited for the fMRI study within the same academic year as the larger study. No other exclusion criteria were used. We screened 284 families, of whom 91 were ineligible due to learning disabilities, braces, head trauma, or other MRI contraindications, and 45 were eligible but did not participate due to scheduling difficulties or no longer interested in participating, resulting in a final sample of 148 adolescents. Thus, of those contacted and eligible, 77.5% participated. However, at time two, an additional 30 adolescents were recruited to the sample. Therefore, **X%** completed up to two timepoints. 
+Based on data from first paper at time point one, participants were recruited from three rural public middle schools in the southeast United States. Between 66.7% and 72.1% of students in these schools was classified as economically disadvantaged based on school reports (North Carolina School Report Cards, 2017), and 69.5% of students in the district was eligible for free or reduced-price lunch based on district reports. Participants were recruited from a larger study of 873 students in sixth and seventh grade. Participants from the larger study provided interest in being contacted for a future fMRI study. Interested participants were then called and screened on the phone for eligibility (i.e., MRI contraindications) and recruited for the fMRI study within the same academic year as the larger study. No other exclusion criteria were used. We screened 284 families, of whom 91 were ineligible due to learning disabilities, braces, head trauma, or other MRI contraindications, and 45 were eligible but did not participate due to scheduling difficulties or no longer interested in participating, resulting in a final sample of 148 adolescents. Thus, of those contacted and eligible, 77.5% participated. However, at time two, an additional 30 adolescents were recruited to the sample. Therefore, **X%** completed up to two timepoints. 
 For this study, adolescents and their primary caregiver attended the fMRI session, during which consent, and assent were obtained. Participants completed an fMRI scan that lasted approximately1.5hr, during which they completed the SID task (described in the below section), as well as four other tasks that are not the focus of this manuscript. Following the scan, participants completed several self-report measures using computer-assisted soft-ware in a private room and provided other hormonal measures, not a focus of this manuscript. Adolescents were compensated with a monetary remuneration of 90 dollars, small prizes for completing the full scan and staying still (e.g., headphones, candy; worth 20 dollars), snacks during the visit, and a meal. Parents were compensated with a monetary remuneration of $50, as well as a meal, compensation for gas, and parking.
 Participants completed the lab sessions and fMRI session once a year for three years, following the sample procedures detailed for wave 1. Adolescents and parents gave written assent/consent in accordance with the university’s Institutional Review Board at each time point.
 
@@ -248,7 +249,10 @@ Participants completed the lab sessions and fMRI session once a year for three y
 *To obtain our target sample size, we plan to recruit:*
 
 ```
-Because the data were already collected, we did not apply an additional target, stopping rules, or contingencies in stopping rules. By using a longitudinal model that allows for missing data, we tried to optimize the amount of data and subjects retained in our model. 
+Because the data were already collected, we did not apply an additional target, 
+stopping rules, or contingencies in stopping rules. 
+By using a longitudinal model that allows for missing data, we tried to optimize 
+the amount of data and subjects retained in our model. 
 ```
 
 *Justification of sample size:*
@@ -280,7 +284,9 @@ We did not use an *a priori* power test for the study. However, we used Geuter e
 *(e.g., will hypotheses be adopted to better powered question if you cannot meet you target sample size?)*
 
 ```
-Recruitment happened prior to preregistration and therefore we do not have a stopping rule and already aware that we have the sample size needed to conduct our study.
+Recruitment happened prior to preregistration and therefore we do 
+not have a stopping rule and already aware that we have the sample size 
+needed to conduct our study.
 ```
 
 
@@ -384,7 +390,10 @@ Incomplete data will be included in the analyses. As long as a participant has a
 *For all tables, you can fill in the table or write paragraph below as you would for paper and use table as checklist of topics covered.*
 
 ```
-Task description is based on Telzer, et al., 2020 at time one. Details will be added and confirmed across waves. These decisions were made prior to the preregistration and will not be edited to ensure results do not bias our analysis plans.
+Task description is based on Telzer, et al., 2020 at time one. 
+Details will be added and confirmed across waves. 
+These decisions were made prior to the preregistration and will not 
+be edited to ensure results do not bias our analysis plans.
 ```
 
 SID Task. 
@@ -425,7 +434,9 @@ Participants completed the Social Incentive Dealy (SID) task while under-going f
 *Use table as checklist of topics covered in your paragraph on data acquisition.*
 
 ```
-fMRI data acqusition occured prior to the pregregistration. A brief description is provided below, but will be detailed prior to publication to increase transparency and reproducibility. 
+fMRI data acqusition occured prior to the pregregistration.
+A brief description is provided below, but will be detailed prior 
+to publication to increase transparency and reproducibility. 
 ```
 
 fMRI Data Acquisition. 
@@ -499,7 +510,13 @@ Other non-standard procedures    |     ___ or NA |
 *Can fill in the table or write paragraph below as you would for paper and use table as checklist of topics covered.*
 
 ``` 
-Preprocessing occured prior to the preregistration. A brief description of this preprocesssing plan is detailed below. Prior to publication, details of this preprocessing pipeline will be further detailed for replication and transparency. Notably, no changes will be made to the preprocessing pipeline for this manuscript to ensure preprocessing decisions were not altered based on desire outcomes. 
+Preprocessing occured prior to the preregistration. 
+A brief description of this preprocesssing plan is detailed below. 
+Prior to publication, details of this preprocessing pipeline will be 
+further detailed for replication and transparency. 
+Notably, no changes will be made to the preprocessing pipeline for 
+this manuscript to ensure preprocessing decisions were not altered 
+based on desire outcomes. 
 ```
 
 Preprocessing was conducted using FSL (FMRIB’s Software Library, version 6.0; www.fmrib.ox.ac.uk/fsl) and included the following steps: Skull stripping using BET(Smith, 2002); motion correction with MCFLIRT(Jenkinson, Bannister, Brady, & Smith, 2002); spatial smoothing with Gaussian kernel of full width at half maximum 6 mm; high-pass temporal filtering with a filter width of 128s (Gaussian-weighted least-squares straight line fitting, with sigma=64.0 s); grand-mean intensity normalization of the entire 4D data set by a single multiplicative factor; and individual level ICA denoising for motion and physiological noise using MELODIC(version 3.15; Beckmann & Smith, 2004), combined with an automated signal classifier (Tohka et al.,2008; Neyman-Pearson threshold=0.3). For the spatial normalization, the EPI data were registered to the T1 image with a linear transformation, followed by a white-matter boundary-based transfomation (Greve & Fischl, 2009) using FLIRT, linear and nonlinear transformations to standard Montreal Neurological Institute (MNI) 2-mm brain were per-formed using Advanced Neuroimaging Tools(Avants et al., 2011), and then spatial normalization of the EPI images to the MNI.
@@ -572,7 +589,12 @@ Remember to include package and package version used for each test.*
 ### First level (fx) modeling
 
 ```
-First level modeling occurred prior to preregistration. A brief description of the first level models are detailed below. Prior to publication, the first level models will be further detailed for replication and transparency. Notably, no changes will be made to the first level models for this manuscript to ensure fx modeling decisions were not altered based on desire outcomes. 
+First level modeling occurred prior to preregistration. 
+A brief description of the first level models are detailed below. 
+Prior to publication, the first level models will be further detailed 
+for replication and transparency. Notably, no changes will be made to 
+the first level models for this manuscript to ensure fx modeling 
+decisions were not altered based on desire outcomes. 
 ```
 
 Individual level, fixed-effects analyses were estimated using the general linear model convolved with a canonical hemodynamic response function in SPM12. The task was modeled as event-related with height conditions, including three anticipation conditions (reward, punishment, neutral), two outcome conditions for both reward (hit, miss) and punishment (hit, miss), and one outcome condition for neutral. Anticipation conditions were modeled as the onset of the cue and the duration of the cue and jitter prior to the target, and outcome conditions were modeled at the onset of and the full duration of the feedback. Six motion parameters were modeled as regressors of no interest. Using the parameter estimates from the general linear model (GLM), linear contrast images comparing each of the conditions of interest were calculated for each individual. The primary contrasts of interest for this study were reward anticipation versus neutral anticipation and punishment anticipation versus neutral anticipation, and reward receipt versus neutral and punishment receipt versus neutral. 
@@ -766,7 +788,10 @@ Whole brain cluster-extent correction is subject to false negatives, due to loss
 ### Functional Connectivity
 
 ```
-Functional connectivity will be assessed *a priori* with anatomically defined VS as the seed at each time point. Details will be added prior to analysis. Secondary functional connectivity analysis will be considered if there are linear or quadratic effects in a lateral or medial prefrontal cortex region.
+Functional connectivity will be assessed *a priori* with anatomically defined VS 
+as the seed at each time point. Details will be added prior to analysis. 
+Secondary functional connectivity analysis will be considered if there are 
+linear or quadratic effects in a lateral or medial prefrontal cortex region.
 
 ```
 
