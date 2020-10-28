@@ -1,0 +1,1 @@
+This Rmarkdown preregistration files accompanies the html output on OSF. Rmarkdown of preregistration is included to provide an easier, transparent way to track updates to the preregistration. An htlm output will appended with a new title and uploaded anytime the preregistration is updated. 
