@@ -621,6 +621,17 @@ Individual level, fixed-effects analyses were estimated using the general linear
 ### Second level (group) modeling
 Group level models will be run using AFNI's 3dLME. This program allows for voxel-level whole brain analysis of linear mixed effects (maximum-likelihood, multi-level model), while allowing for repeated measures and within subject missing data (Chen et al., 2013). This modeling structure also allows us to minimize the number of models we run and therefore constrains our need for multiple comparison correction across the number of models. 
 
+*Contrast details were added prior to running receipt models. Contrast details for anticipation match script already provided below.*
+Contrasts for anticipation will include: 
+Reward Anticipation (con001);
+Punishment Anticipation (con002), and 
+Neutral Anticipation(con003) as the baseline.
+
+Contrasts for receipt will include: 
+Reward Hit (see happy face; con004); 
+Punishment Miss (see angry face; con007); and 
+Neutral outcome (con008) as baseline. 
+
 Template model structure included here:
 
 ```
